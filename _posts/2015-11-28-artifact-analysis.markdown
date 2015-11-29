@@ -11,7 +11,7 @@ author:
   email: litvn765@newschool.edu
 ---
 
-**Artifact Analysis** is a process by which an artifact is used to better understand its users and the culture in which it typically exists. It also serves as an opportunity for a design researcher to systemically generate insights and inspiration for future product/service designs.
+**Artifact Analysis** is a process by which an artifact is used to better understand its users and the culture in which it typically exists. It also serves as an opportunity for a design researcher to systematically generate insights and inspiration for future product/service designs.
 
 This is an active process; an object will not communicate valuable information to the researcher unless he or she asks questions of it. These questions are often more fruitful when they begin with "Why" or "How." Additional primary or secondary research may be necessary to fully explore the implications of an artifact's design. For example, a design researcher may ask of a hub cap "Why does this have non-functional spokes?"
 
