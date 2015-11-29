@@ -1,7 +1,7 @@
 <div class="about">
     <div class="about__devider">*****</div>
     <div class="about__text">
-        Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
+        by <strong>{% if page.author.email %}<a href="mailto:{{ page.author.email }}">{% endif %}{% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}{% if page.author.email %}</a>{% endif %}</strong>
         on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
     </div>
 </div>

@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: observe_discover
+  name: Observe + Discover
 
-- slug: tools
-  name: Tools
+- slug: frame_propose
+  name: Frame + Propose
 
-- slug: productivity
-  name: Productivity
+- slug: prototype_act
+  name: Prototype + Act
+
+- slug: evaluate_reflect
+  name: Evaluate + Reflect

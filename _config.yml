@@ -1,7 +1,7 @@
 # Site settings
-title: Design-led Research Toolkit
+title: Design-Led Research Toolkit
 description: >
-  Design-led Research Toolkit
+  Design-Led Research Toolkit
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dlrtoolkit.github.io" # the base hostname & protocol for your site
