@@ -13,3 +13,12 @@ $cloudy: #828282;
     "default",
     "404"
 ;
+
+
+.page-title.post-title img {
+    max-width:200px;
+}
+
+p a {
+	border-bottom: 1px dotted $cloudy;
+}

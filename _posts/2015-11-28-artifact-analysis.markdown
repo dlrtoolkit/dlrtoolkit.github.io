@@ -8,14 +8,14 @@ permalink: /artifact-analysis/
 image: artifact-analysis.png
 author:
   fullname: Noah Litvin
-  email: litvn765@newschool.edu
+  link: http://noahlitvin.com
 ---
 
 **Artifact Analysis** is a process by which an artifact is used to better understand its users and the culture in which it typically exists. It also serves as an opportunity for a design researcher to systematically generate insights and inspiration for future product/service designs.
 
 This is an active process; an object will not communicate valuable information to the researcher unless he or she asks questions of it. These questions are often more fruitful when they begin with "Why" or "How." Additional primary or secondary research may be necessary to fully explore the implications of an artifact's design. For example, a design researcher may ask of a hub cap "Why does this have non-functional spokes?"
 
-By considering the various aspects of an artifact, particular lines of questioning may emerge. Some of the aspects may include: material, construction, historical, aesthetic, interactive, functional, and spatial. Considering possible unintended uses of an artifact may open up additional avenues for inquiry as well.
+By considering the various aspects of an artifact, particular lines of questioning may emerge. Some of these aspects may include: material, construction, historical, aesthetic, interactive, functional, and spatial. Considering possible unintended uses of an artifact may open up additional avenues for inquiry as well.
 
 **Advantages**: does not require human research participants; can yield unexpected insights; may be used to study people/cultures across both space and time.
 

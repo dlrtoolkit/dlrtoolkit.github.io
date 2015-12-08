@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "AEIOU"
+date:   2015-11-28 12:12:12
+categories: [observe_discover]
+tags: [qualitative, exploratory, observational]
+permalink: /aeiou/
+image: aeiou.png
+author:
+  fullname: Winnie Chang
+  link: mailto:winnie.chang@newschool.edu
+---
+
+**AEIOU** is a coding structure mnemonic used to organize data under the following sections: Activities, Environments, Interactions, Objects and Users. The framework can be applied as-is or customized and adapted into a new taxonomy. In both cases, the goal of using this framework is to make interpreting and analyzing data easier, while visually mapping the significant relationships and interactions between categories.
+
+**Activities** includes actions with specific goals in mind, and the processes performed to achieve them.
+ 
+**Environments** details the context and characteristics of the space where activities are being observed.
+ 
+**Interactions** includes both interpersonal and person-artifact interactions. Proximity and space may also play an important role within these relationships.
+ 
+**Objects** catalogues the items within the environment and how they are used. It is important to note both the central and peripheral uses of objects and how people harness them to conduct their activities.
+ 
+**Users** includes the people within the environment that are being observed. Key information includes their values and biases, behaviors, needs and relationships.
+ 
+AEIOU can be used in-field as worksheets or be applied later to code data collected from other ethnographic or observational methods, including notes, photos, and interviews. 
+
+**Advantages**: good for recording observations and small details; creates a visual map of activities; can assist in uncovering latent needs, workarounds and unspoken behaviors.
+
+**Disadvantages**: not good for recording macro-level social, political or cultural conditions; does not include changes over time; focuses on users and excludes other actors.
+
+<br>
+
+## Case Studies 
+
+[Building a Useful Research Tool: An Origin Story of AEIOU](https://www.epicpeople.org/building-a-useful-research-tool/)  
+Rick Robinson et al. developed AEIOU at the Doblin Group in 1991 while studying vast amounts of data regarding over-the-counter interaction at McDonald’s restaurants. After clustering and categorizing data, they ended up with the categories for the AEIOU framework.
+
+[Drawing Ideas: AEIOU Worksheets](http://www.drawingideasbook.com/images/AEIOU_worksheets.pdf)  
+<img src="/assets/images/aeiou2.jpg" style="display:block;float:left;max-width:240px;margin: 0 15px 15px 0;" alt="AEIOU Worksheets">
+Mark Baskinger and Bruce Hanington developed AEIOU worksheets as a part of the online resources accompanying their book, Drawing Ideas. However, while Robinson initially presented AEIOU as a customizable framework, Baskinger and Hanington strictly adhere to these five dimensions and consider it to be a rigid system within their toolkit.
+
+<br>
+
+## Tips
+
+Treat AEIOU as a starting point rather than a hard-set method. Rick Robinson, the creator, calls it a “categorizing heuristic” that should be adapted and modified according to the project. Time-related events or occurrences, for example, may be difficult to capture without adding in a time component or specific sub-categories.
+
+The categories are interrelated, meaning that the relationships between one another are very significant.
+
+<br>
+
+## References
+
+Ethnohub. “AEIOU Framework.” [http://help.ethnohub.com/guide/aeiou-framework](http://help.ethnohub.com/guide/aeiou-framework)  
+This site provides concise documentation of Robinson et al.’s framework. The page includes details on the taxonomies, process and origins of AEIOU.
+
+Martin, Bella, and Bruce M. Hanington. Universal Methods of Design 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions. Beverly, MA: Rockport Publishers, 2012. 10.  
+
+Robinson, Rick. “Building a Useful Research Tool: An Origin Story of AEIOU.” Epic. [https://www.epicpeople.org/building-a-useful-research-tool/](https://www.epicpeople.org/building-a-useful-research-tool/)  
+As noted above, Robinson recounts the process and circumstances that led to creating AEIOU, and how it he initially intended it to be used. Developed by Robinson et al. while at the Doblin group, Robinson later carried the framework over to E-Lab LLC. E-Lab is now a part of Sapient.
+
+Wasson, Christina. 2000. “Ethnography in the Field of Design.” Human Organization 59 4: 377-388.  
+Wasson provides an overview of how ethnographic methods are being carried over into the design field, and uses the process conducted at E-Lab as a case study.

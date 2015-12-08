@@ -4,7 +4,8 @@ description: >
   Design-Led Research Toolkit
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dlrtoolkit.github.io" # the base hostname & protocol for your site
+# url: "http://127.0.0.1:4000" 
+url: "http://dlrtoolkit.github.io"
 
 author:
   fullname: 
