@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Mind Map"
+date:   2015-11-28 12:12:12
+categories: [frame_propose]
+tags: []
+permalink: /mind-map/
+image: mind-map.png
+author:
+  fullname: 
+  link:
+---
+
+**Mind Map** is a qualitative data collection tool that is mainly used in the beginning phase of research for generating ideas. It is a diagrammatic tool that is used to represent words, ideas, and concepts surrounding a central word or idea. It also serves as a tool to unpack thoughts and beliefs/concepts.
+
+This tool can also be used in various stages of research to elicit, represent, and integrate knowledge. Like a tree, its branches extend from the central or core idea into sub-branches. Using images, color, and varying line-weight can help to visualize and organize ideas and their importance. Mind maps can be useful for communicating, brainstorming, interviews, and note-taking.
+
+There is no right or wrong when creating a Mind Map. It is structurally more flexible than other mapping tools and can represent ideas in a variety of ways. Without constraints, one can freely express ideas and concepts surrounding the central theme. A Mind Map can be created freehand or digitally or through online programs. A disadvantage with using digital and online mapping tools limits the freedom of using hands, drawings, colors, is less personal, and unsuitable when sharing with others.
+
+**Advantages**: free-flowing format that supports the natural thinking process; visual aid in discussing key components or tasks; very flexible structure; organization tool.
+
+**Disadvantages**: maybe hard to use or construct for some people; takes time; difficult for others to understand.
+
+<br>
+
+## Case Studies/Examples
+
+James Cook University in Australia uses the Mind Map technique to map their research methods.
+
+Johannes Wheeldon from the Simon Fraser University in Canada uses Mind Maps as a participatory tool to facilitate more detailed and in-depth reflections of experience in her research.
+
+Tony Buzan, the man who popularized the method uses Mind Mapping as a note-taking tool.
+
+<br>
+
+## References
+
+Buzan, Tony. *Use Both Sides of Your Brain.* Rev. and Updated Ed., 1st ed. New York: E.P. Dutton, 1983. Print.
+
+"Mind Mapping Research Methods." *- ResearchOnline@JCU.* Web.
+
+"Social Research Update." *Social Research Update.* Web. 

@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Collage"
+date:   2015-11-28 12:12:12
+categories: [frame_propose]
+tags: [qualitative, generative, participatory]
+permalink: /collage/
+image: collage.png
+author:
+  fullname: Noa Bartfeld
+  link: mailto:bartn370@newschool.edu
+---
+
+*Collage* is a co-design workshops method, that can help designers partner with users; to include their perspective in knowledge development, idea generation, and product development. We can harness everyday people creativity early in the development process. Collaging allows people to articulate experiences through pictures and words. Collaging involves giving people a set of picture and word stickers and a space on which to arrange them according to your instructions. It is important that participants are given the opportunity to think about the topic of the study and reflect on it before meeting with the design team for an onsite co-creation workshop. Four steps to developing an effective college toolkit: Brainstorming, Pilot Testing, Refinement, Production. Designers and other members of the development team can quickly become immersed in the minds and hearts of their potential end-users when they hear people talk about the artifacts they have created with the make tools.
+
+**Advantages**: Collages are useful for discovering emotions, feelings, or wishes; allows everyday people to contribute in the front end of the process; stimulate creative thinking among participant. 
+
+**Disadvantages**: Colleges are abstract by nature and although they allow people to express themselves they can be misunderstood if the process is not performed correctly.
+
+<br>
+
+## Example
+
+<img alt="Collages" src="/assets/images/collage-1.jpg">
+1. [Travis Dove](http://dealbook.nytimes.com/2014/07/22/offering-small-fees-banks-cater-to-low-income-customers/) for The New York Times. 
+2+3. Example of collage toolkit developed by Liz Sanders. 
+4. The AF exhibition produced by [a-small-lab](http://a-small-lab.com)
+
+## References
+
+*coming soon*
