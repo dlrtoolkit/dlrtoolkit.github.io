@@ -2,7 +2,7 @@
 layout: post
 title:  "Contextual Design"
 date:   2015-11-28 12:12:12
-categories: [prototype_act]
+categories: [frame_propose]
 tags: []
 permalink: /contextual-design/
 image: 

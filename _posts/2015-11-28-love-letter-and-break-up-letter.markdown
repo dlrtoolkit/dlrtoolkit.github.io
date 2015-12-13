@@ -2,7 +2,7 @@
 layout: post
 title:  "Love Letter and Break Up Letter"
 date:   2015-11-28 12:12:12
-categories: [reflect_evaluate]
+categories: [evaluate_reflect]
 tags: [qualitative, exploratory, observational]
 permalink: /love-letter-and-break-up-letter/
 image: love-letter-and-break-up-letter.png

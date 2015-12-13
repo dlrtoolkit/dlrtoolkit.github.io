@@ -33,7 +33,7 @@ PDF. September 2015.
 <br>
 
 ## Resources
-[Download Participatory Design Guide]({{ site.url }}/assets/resources/customerjourneymap_template.pdf)
+[Download Customer Journey Map Template]({{ site.url }}/assets/resources/customerjourneymap_template.zip)
 
 <br>
 

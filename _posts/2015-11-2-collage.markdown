@@ -3,15 +3,15 @@ layout: post
 title:  "Collage"
 date:   2015-11-28 12:12:12
 categories: [frame_propose]
-tags: [qualitative, generative, participatory]
+tags: [participatory,generative,qualitative]
 permalink: /collage/
-image: collage.png
+image: collage.jpg
 author:
   fullname: Noa Bartfeld
-  link: mailto:bartn370@newschool.edu
+  link: mailto:noa.bartfeld@newschool.edu
 ---
 
-*Collage* is a co-design workshops method, that can help designers partner with users; to include their perspective in knowledge development, idea generation, and product development. We can harness everyday people creativity early in the development process. Collaging allows people to articulate experiences through pictures and words. Collaging involves giving people a set of picture and word stickers and a space on which to arrange them according to your instructions. It is important that participants are given the opportunity to think about the topic of the study and reflect on it before meeting with the design team for an onsite co-creation workshop. Four steps to developing an effective college toolkit: Brainstorming, Pilot Testing, Refinement, Production. Designers and other members of the development team can quickly become immersed in the minds and hearts of their potential end-users when they hear people talk about the artifacts they have created with the make tools.
+*Collage* is a co-design workshops method, that can help designers partner with users; to include their perspective in knowledge development, idea generation, and product development. We can harness everyday people creativity early in the development process. These tools can also be used in group meeting. They are designed to allow participants to use their previous immersion to stimulate creative exploration. Collaging allows people to articulate experiences through pictures and words. Collaging involves giving people a set of picture and word stickers and a space on which to arrange them according to your instructions. It is important that participants are given the opportunity to think about the topic of the study and reflect on it before meeting with the design team for an onsite co-creation workshop. Four steps to developing an effective college toolkit: Brainstorming, Pilot Testing, Refinement, Production. Designers and other members of the development team can quickly become immersed in the minds and hearts of their potential end-users when they hear people talk about the artifacts they have created with the make tools. Other methods that complement collage: Cognitive mapping, Velcro-Modelling, Storyboards, Inspiration Cards, Modeling.
 
 **Advantages**: Collages are useful for discovering emotions, feelings, or wishes; allows everyday people to contribute in the front end of the process; stimulate creative thinking among participant. 
 
@@ -19,13 +19,14 @@ author:
 
 <br>
 
-## Example
+## Instructions
 
-<img alt="Collages" src="/assets/images/collage-1.jpg">
-1. [Travis Dove](http://dealbook.nytimes.com/2014/07/22/offering-small-fees-banks-cater-to-low-income-customers/) for The New York Times. 
-2+3. Example of collage toolkit developed by Liz Sanders. 
-4. The AF exhibition produced by [a-small-lab](http://a-small-lab.com)
+The materials needed for collages are generally composed of a maximum of 150 images and words, which are carefully chosen and refined by the development team and printed on sticker sheets. The images and words chosen should be abstract enough to elicit communication without guiding the participants in any way, but might include representative elements such as people or artifacts.
 
-## References
+<br>
 
-*coming soon*
+## Examples & Case Studies
+
+1. [**Bank of America**](http://dealbook.nytimes.com/2014/07/22/offering-small-fees-banks-cater-to-low-income-customers/): As an effort to maintain low-income customers, and in a need to change their reputation among dubious home foreclosures, Bank of America have asked low income families in four cities to create collages that showed how they felt about money. One of the collages features a glamorous woman with the words “want,” “desire” and “resistance” written on her shoulder. The result of the research is the SafeBalance account, which comes with a $4.95 monthly fee. It allows customers to make direct deposits and pay bills online, but not write paper checks.
+
+2. [**AF Exhibition**](http://adaptablefutures.com/2012/11/af-exhibition-building-centre/): The AF exhibition produced by [a-small-lab](http://www.a-small-lab.com) is a series of ten collages, framed around the topic of adaptability. The focus of the team was on developing tools and resources to help elucidate needs and provide improved and more nuanced responses to the topic of adaptability.  Each one of the collages suggest a frequently asked question; in this example the question was: *What is Adaptable Futures?* The collages are aimed to prompt the viewer to engage in further discussion on the topic via social networks.  
