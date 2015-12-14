@@ -1,11 +1,11 @@
 - slug: observe_discover
   name: Observe + Discover
 
-- slug: frame_propose
-  name: Frame + Propose
-
 - slug: prototype_act
   name: Prototype + Act
 
 - slug: evaluate_reflect
   name: Evaluate + Reflect
+
+- slug: frame_propose
+  name: Frame + Propose

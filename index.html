@@ -3,14 +3,26 @@ layout: page
 title: Table of Contents
 subtitle: 
 ---
-{% for category in site.categories %}
-  <h2>{{ category | first }}</h2>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
+<section id="toc">
+
+<h3>Observe + Discover</h3>
+{% for post in site.categories["observe_discover"] %}
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
+<br>
+<h3>Frame + Propose</h3>
+{% for post in site.categories["frame_propose"] %}
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}
+<br>
+<h3>Prototype + Act</h3>
+{% for post in site.categories["prototype_act"] %}
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}
+<br>
+<h3>Evaluate + Reflect</h3>
+{% for post in site.categories["evaluate_reflect"] %}
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}
+
+</section>
