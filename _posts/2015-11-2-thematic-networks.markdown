@@ -3,7 +3,7 @@ layout: post
 title:  "Thematic Networks"
 date:   2015-11-28 12:12:12
 categories: [frame_propose]
-tags: [Qualitative, Exploratory]
+tags: [qualitative, exploratory]
 permalink: /thematic-networks/
 image: thematic-networks.jpg
 author:

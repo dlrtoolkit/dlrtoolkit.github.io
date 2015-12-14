@@ -30,7 +30,7 @@ Sanders, Brandt and Binder proposed the following framework to structure partici
   * Getting a better understanding of their current experience
   * Generating ideas or design concepts
 
-3. **Determine the context.** Where and how are the tools being used? They describe this in four dimensions.
+* **Determine the context.** Where and how are the tools being used? They describe this in four dimensions.
   * Individual
   * Group
   * Face-to-face

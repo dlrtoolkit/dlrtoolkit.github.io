@@ -2,7 +2,7 @@
 layout: post
 title:  "Interview"
 date:   2015-11-28 12:12:12
-categories: [frame_propose]
+categories: [observe_discover]
 tags: [qualitative, exploratory, generative, evaluative, self-reporting]
 permalink: /interview/
 image: interview.png

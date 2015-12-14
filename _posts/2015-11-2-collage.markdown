@@ -27,6 +27,16 @@ The materials needed for collages are generally composed of a maximum of 150 ima
 
 ## Examples & Case Studies
 
+<img src="/assets/images/collage-1.jpg" alt="Thematic Networks on Sexual Intimacy" style="margin-bottom:0;">
 1. [**Bank of America**](http://dealbook.nytimes.com/2014/07/22/offering-small-fees-banks-cater-to-low-income-customers/): As an effort to maintain low-income customers, and in a need to change their reputation among dubious home foreclosures, Bank of America have asked low income families in four cities to create collages that showed how they felt about money. One of the collages features a glamorous woman with the words “want,” “desire” and “resistance” written on her shoulder. The result of the research is the SafeBalance account, which comes with a $4.95 monthly fee. It allows customers to make direct deposits and pay bills online, but not write paper checks.
 
+<img src="/assets/images/collage-2.jpg" alt="Thematic Networks on Sexual Intimacy" style="margin-bottom:0;">
 2. [**AF Exhibition**](http://adaptablefutures.com/2012/11/af-exhibition-building-centre/): The AF exhibition produced by [a-small-lab](http://www.a-small-lab.com) is a series of ten collages, framed around the topic of adaptability. The focus of the team was on developing tools and resources to help elucidate needs and provide improved and more nuanced responses to the topic of adaptability.  Each one of the collages suggest a frequently asked question; in this example the question was: *What is Adaptable Futures?* The collages are aimed to prompt the viewer to engage in further discussion on the topic via social networks.  
+
+<br>
+
+## References
+
+Naranjo, Catalina. [*"Creativity-based Research: The Process of Co-Designing with Users."*](https://uxmag.com/articles/creativity-based-research-the-process-of-co-designing-with-users.) Creativity-based Research: The Process of Co-Designing with Users. 2012.
+
+Taylor, and Francis. *"To Appear in CoDesign: International Journal of CoCreation in Design and the Arts, Vol. 1."* November 2, 2005.
