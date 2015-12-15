@@ -7,8 +7,8 @@ tags: [qualitative,exploratory,evaluative,observational]
 permalink: /competitive-analysis/
 image: competitive-testing.png
 author:
-  fullname: 
-  link: 
+  fullname: Valentina Branada
+  link: mailto:branv443@newschool.edu
 ---
 
 **Competitive Testing** is a tool that compares a product or service with its competition from the user’s perspective. Used to explore in-depth what already exist in the market to learn about people’s overall experience with a service or product. It is good for an initial research activity, to begin to explore an area of interest by looking at users responses to what other people have designed or - as it is used more traditionally - to evaluate a product or service performance in contrast with its competitors and to help determine design directions.

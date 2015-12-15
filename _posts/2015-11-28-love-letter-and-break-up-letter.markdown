@@ -11,11 +11,11 @@ author:
   link: mailto:wilkj803@newschool.edu
 ---
 
-**Love Letter and Break Up Letter** is *coming soon*.
+**Love Letter and Break Up Letter** is a beautiful way to explore the relationship of an object or service thru personification. At its simplest, you ask a person to consider the relationship they have with an object or service on the same level as a romantic relationship with a significant other. Then they write it a letter. They are either professing their undying love for it, exploring the qualities they love so much, how it brings out the best in them, how it makes their day better, how they do not know how they would love without it, and all the reasons why. Or, they are calling it quits with it, how it has been a long time coming, how it has been nothing but a burden on them, how they are an emotion and/or physical strain on them, and again all the reasons why. It is a great tool for exploring existing products or services to make them better or to find possible design opportunities. 
 
-**Advantages**: by humanizing the object/experience people reveal things they otherwise would not.
+**Advantages**: one simple prompt can yield more answers than a lengthy questionnaire; by humanizing the object/experience people reveal things they otherwise would not; it is more engaging that asking people to write their likes and dislikes. 
 
-**Disadvantages**: can be somewhat rigid; best if the people polled are creative, can be difficult with less imaginative people.
+**Disadvantages**: can be somewhat rigid unless the people are particularly imaginative; can be skewed by the emotional state of the participant at the time of participation; can be affected by gender biases. 
 
 <br>
 
@@ -38,9 +38,3 @@ This method is all about exploring the relationship you have with something as i
 Also, keep in mind when and where you are asking them to write the letters. If they are breaking up with the subway system you will have different letters if you ask them while they are riding the subway versus reflecting on riding the subway.
 
 Also consider how specific you want the person to be. Are they breaking up with the subway car? The subway system? The people on it? The experience? Consider if you want to guide them to explore a specific part or if you would just like to see what is most emotional and relevant for them.  
-
-<br>
-
-## References
-
-*coming soon.*
